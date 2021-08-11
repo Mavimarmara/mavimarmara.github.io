@@ -1,0 +1,1 @@
+(()=>{"use strict";$(document).ready((function(){var t=$("[data-include]");jQuery.each(t,(function(){var t="../src/html/"+$(this).data("include")+".html";$(this).load(t)}))}))})();
